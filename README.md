@@ -175,17 +175,13 @@ Backend system following **TDD methodology**. Applied **SOLID principles** and *
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=TahaBENMALEK&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=TahaBENMALEK&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahaBENMALEK&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+[![Taha's GitHub stats](https://github-readme-stats.vercel.app/api?username=TahaBENMALEK&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TahaBENMALEK&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TahaBENMALEK&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
-
-<div align="center">
-  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TahaBENMALEK&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+[![Taha's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=TahaBENMALEK&theme=tokyo-night&hide_border=true&custom_title=Taha%20BENMALEK's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 

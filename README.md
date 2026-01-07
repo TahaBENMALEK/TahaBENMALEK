@@ -175,7 +175,7 @@ Backend system following **TDD methodology**. Applied **SOLID principles** and *
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TahaBENMALEK&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TahaBENMALEK&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)-->
 
 <!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TahaBENMALEK&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)-->
 

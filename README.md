@@ -1,8 +1,12 @@
-# Hi there, I'm Taha BENMALEK 👋
+<div align="center">
+
+# 🚀 I Don't Just Code — I Build Solutions That Scale, Perform, and Ship with Confidence
+
+</div>
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=Full+Stack+Software+Engineer;DevOps+%26+Cloud+Specialist;QA+Automation+Engineer;Building+Scalable+%26+Tested+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2E9EF7&center=true&vCenter=true&width=900&lines=Full+Stack+Engineer+%7C+Building+Robust+Systems;DevOps+Enthusiast+%7C+Automating+Everything;QA+Advocate+%7C+Testing+is+NOT+Optional;Scalability+%2B+Reliability+%2B+Speed+%3D+My+Focus)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taha-benmalek-/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benmalektaha.inpt@gmail.com)
@@ -10,15 +14,53 @@
 
 </div>
 
+## 🧪 Why I'm Obsessed with Testing & QA
+
+**"If it's not tested, it's not done."** That's not just a motto—it's how I ship software.
+
+### 🎯 My Testing Philosophy:
+- ✅ **Test-First Mindset**: TDD isn't a buzzword, it's how I write code
+- 🔄 **Full Coverage**: Unit → Integration → E2E → Everything in between
+- 🚀 **CI/CD Integration**: Tests that run automatically, catch bugs before production
+- 📊 **Metrics Matter**: 100% test pass rate, 38 tests for 10M users, 23+ backend tests
+- 🛡️ **Quality Gates**: No merge without tests, no deploy without green pipelines
+
+### 🔍 My QA Arsenal:
+**Frontend Testing**:  
+Playwright • Selenium WebDriver • Cypress • Vitest • Jest • React Testing Library
+
+**Backend Testing**:  
+JUnit 5 • Mockito • Spring Boot Test • Pytest • Postman/Newman
+
+**E2E & Infrastructure**:  
+Playwright • Selenium • Kyverno Chainsaw (Kubernetes validation)
+
+**Methodologies**:  
+TDD • BDD • Page Object Model • Automated Regression Testing
+
+### 💪 Real Impact:
+- 🎯 **40% reduction** in deployment errors through E2E automation
+- ⚡ **70% faster** error detection with Python validation scripts
+- ✅ **100% test coverage** on scalable user browser (38 tests)
+- 🏆 **23+ backend tests** on TaskFlow with Clean Architecture
+
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
+
+**Hi, I'm Taha BENMALEK** — a software engineer who believes that **shipping broken code is worse than not shipping at all**.
 
 🎓 **Software Engineering Student** at INPT (Institut National des Postes et Télécommunications), Rabat  
-💼 **Seeking PFE Internship** starting mid-January 2026  
+💼 **Full Stack Engineer** at **INE Alumni** (A2S INPT Club Project)  
 🏆 **President of Enactus INPT** (2024/2025) - Leading 15+ entrepreneurial projects  
-🌱 Multi-disciplinary engineer with expertise in **Full Stack Development**, **DevOps/Cloud**, and **QA Automation**  
-⚡ Passionate about **scalable architectures**, **automated testing**, and **CI/CD pipelines**
+🧪 **Passionate QA Advocate** - If it's not tested, it's not done  
+⚡ Building systems that are **scalable**, **reliable**, and **production-ready** from day one
+
+### 🔥 What Drives Me:
+- **Quality First**: Automated testing isn't optional—it's the foundation
+- **Scale Matters**: Building solutions that handle millions, not just thousands
+- **Ship with Confidence**: CI/CD pipelines that catch bugs before users do
+- **DevOps Mindset**: If you built it, you deploy it, monitor it, and own it
 
 ---
 
@@ -54,11 +96,18 @@
 - Built **virtualized React UI** rendering only 12-15 items, ensuring zero browser freeze
 - Achieved **15-25ms API latency**, **35MB RAM usage**, **100% test coverage (38 tests)**
 
-### 🎓 [INE Alumni Platform](https://ine-alumni.vercel.app)
-**React • TailwindCSS • Spring Boot • PostgreSQL • Docker • Selenium**
-- Full-stack alumni networking platform with opportunity sharing
-- Implemented **secure REST APIs** with JWT authentication
-- **Complete testing suite**: Frontend (Vitest + RTL), Backend (JUnit + Mockito), E2E (Selenium WebDriver)
+### 🎓 [INE Alumni Platform](https://ine-alumni.vercel.app) - **Full Stack Engineer**
+**React • TailwindCSS • Spring Boot • PostgreSQL • Docker • Selenium**  
+*A2S INPT Club Project | Sep 2025 - Present*
+
+Building a production-grade alumni networking platform where **quality meets scalability**:
+- 🏗️ **Architecture**: Secure REST APIs with JWT authentication, responsive frontend
+- 🧪 **Testing Obsession**: Complete test coverage across all layers
+  - **Frontend**: Vitest + React Testing Library for component testing
+  - **Backend**: JUnit + Mockito for unit & integration tests  
+  - **E2E**: Selenium WebDriver for critical user journeys
+- 🚀 **DevOps**: Dockerized deployment with CI/CD integration
+- 💯 **Result**: A system that doesn't just work—it works reliably at scale
 
 ### 🤖 [AI-Powered Travel Recommendation Engine](https://github.com/TahaBENMALEK/travel-platform)
 **React • Node.js • Python • Vector DB • Groq LLM API • PostgreSQL**
@@ -237,21 +286,26 @@
 
 ---
 
-## 📫 Get In Touch
+## 📫 Let's Build Something Incredible
 
-I'm actively seeking a **PFE internship** starting mid-January 2026 in:
-- 🔧 **DevOps & Cloud Engineering**
-- 💻 **Full Stack Development** (Java/Spring Boot, Python/Django, React/Angular)
-- 🧪 **QA Automation & Testing**
+**I'm always open to collaborating on projects that value:**
+- 🎯 **Quality over speed** (but we can have both)
+- 🧪 **Testing as a first-class citizen**
+- 🚀 **Systems that scale from day one**
+- 🔧 **DevOps automation and CI/CD excellence**
 
-**Let's connect and build something amazing together!**
+**Available for:**
+- Full Stack Development (Java/Spring Boot, Python/Django, React/Angular)
+- DevOps & Cloud Engineering (Kubernetes, ArgoCD, CI/CD)
+- QA Automation & Testing Strategy
+- Technical Consulting & Code Reviews
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taha-benmalek-/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benmalektaha.inpt@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TahaBENMALEK)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+212618987792)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Taha_BENMALEK-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taha-benmalek-/)
+[![Email](https://img.shields.io/badge/Email-benmalektaha.inpt@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benmalektaha.inpt@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-TahaBENMALEK-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TahaBENMALEK)
+[![Phone](https://img.shields.io/badge/Phone-+212_618987792-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+212618987792)
 
 </div>
 
@@ -259,8 +313,10 @@ I'm actively seeking a **PFE internship** starting mid-January 2026 in:
 
 <div align="center">
 
-### 💭 *"Building scalable, tested, and automated solutions - one commit at a time"* ⚡
+### 💭 *"I don't just code — I build solutions that scale, perform, and ship with confidence"* ⚡
 
-**⭐ Star my repositories if you find them useful!**
+**Tests Green ✅ | Pipelines Passing 🚀 | Production Ready 💯**
+
+**⭐ Star my repositories if you believe in quality-first engineering!**
 
 </div>

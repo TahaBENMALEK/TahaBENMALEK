@@ -238,7 +238,6 @@ Leading and coaching **15+ entrepreneurial projects** with nationally-awarded in
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Taha_BENMALEK-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taha-benmalek-/)
 [![GitHub](https://img.shields.io/badge/GitHub-TahaBENMALEK-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TahaBENMALEK)
 [![Email](https://img.shields.io/badge/Email-benmalektaha.inpt@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benmalektaha.inpt@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-+212_618987792-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+212618987792)
 
 </div>
 

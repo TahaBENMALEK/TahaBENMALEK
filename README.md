@@ -5,7 +5,7 @@
 </div>
 
 # See my portfolio:
-[Taha BENMALEK]([https://github.com/TahaBENMALEK/scalable-user-browser](https://taha-benmalek-portfolio.vercel.app/))
+[Taha BENMALEK](https://taha-benmalek-portfolio.vercel.app/)
 
 <div align="center">
   

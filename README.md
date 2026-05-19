@@ -4,8 +4,7 @@
 
 </div>
 
-# See my portfolio:
-[Taha BENMALEK](https://taha-benmalek-portfolio.vercel.app/)
+# See my portfolio: [Taha BENMALEK](https://taha-benmalek-portfolio.vercel.app/)
 
 <div align="center">
   
